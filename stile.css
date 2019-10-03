@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+}
+.login {
+    margin-top: -4%;
+    margin-left: 80%;
+}
+#rosso {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    margin-left: 50px;
+}
+#blu {
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    margin-top: -150px;
+    margin-left: 250px;
+}
+#giallo {
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    margin-top: -150px;
+    margin-left: 450px;
+}
+#verde {
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    margin-top: -150px;
+    margin-left: 650px;
+}
+#acqua {
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    margin-top: -150px;
+    margin-left: 850px;
+}
+#marrone {
+    height: 150px;
+    width: 150px;
+    background-color: brown;
+    margin-top: -150px;
+    margin-left: 1050px;
+}
+#turchese {
+    height: 150px;
+    width: 150px;
+    background-color: turquoise;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+a {
+    color: black;
+    text-decoration: none;
+    position: relative;
+    top: 40%;
+    left: 30%;
+  }
